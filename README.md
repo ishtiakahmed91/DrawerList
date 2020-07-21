@@ -40,9 +40,9 @@ iOS 11.0+ and Swift 4.0+ are required.
 
 ## Author
 
-[Ishtiak Ahmed](https://www.linkedin.com/in/ishtiakahmed/).
+[Ishtiak Ahmed](https://www.linkedin.com/in/ishtiakahmed/)
 Email: [ishtiakahmed91@gmail.com](ishtiakahmed91@gmail.com)
-Twitter: [@Ishtiak1609](Ishtiak1609).
+Twitter: [@Ishtiak1609](Ishtiak1609)
 
 
 If you're using `DrawerList` in your app, please let me know and I will update the readme which can probably help others to take decision.
